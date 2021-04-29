@@ -1,14 +1,14 @@
 ## Hi there,  I am Hyacinth and welcome to my Github! 
 
 
- I'm fascinated by technology, especially machine learning and deep learning and infact, everything data,
+ I'm fascinated by technology, especially  data science machine learning and deep learning and infact, everything data,
 and how we can use it to create incredible things that make our lives
 easier and better. I really enjoy working with others on exciting projects.
 So, while you're navigating this page, if something appeals to you,
 don't hesitate to get in touch with me
 
-- 🔭 I am currently working as a freelancer on upwork doing machine learning work
-- 🌱 I’m very open to remote machine learning engineer roles
+- 🔭 I am currently working as a freelancer on upwork doing data science work
+- 🌱 I’m very open to remote data scientist roles
 - ⚡ Fun fact: I know a thing or two about electrical engineering
 
 ### Stuff I've worked on!
