@@ -13,7 +13,7 @@ don't hesitate to get in touch with me
 
 ### Stuff I've worked on!
 <dl>
-  <dt>🔭 Machine Learning and Big Data</dt>
+  <dt>🔭 Data Science and Machine Learning </dt>
   <dd>I have built a wide range of applications using machine learning, from building recommender systems to building models to improve energy efficiency to improving electrical drives systems to building models to determine ICU admission likelihood and mortality of COVID 19 patients and to building models to extract payment history using LSTM and so much more</dd>
   <dt>🌱 Computer vision(deep learning)</dt>
   <dd>Its amazing what deep learning can achieve in computer vision. I have worked on computer vision for healthcare purposes, for object detection and localization,
