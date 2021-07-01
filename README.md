@@ -9,7 +9,7 @@ don't hesitate to get in touch with me
 
 - 🔭 I am currently working as a freelancer on upwork doing data science work
 - 🌱 I’m very open to remote data scientist roles
-- ⚡ Fun fact: I know a thing or two about electrical engineering
+- ⚡ Fun fact: I have a masters in electrical engineering
 
 ### Stuff I've worked on!
 <dl>
