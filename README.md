@@ -7,8 +7,8 @@ easier and better. I really enjoy working with others on exciting projects.
 So, while you're navigating this page, if something appeals to you,
 don't hesitate to get in touch with me
 
-- 🔭 I am currently working as a freelancer on upwork doing data science work
-- 🌱 I’m very open to remote data scientist roles
+- 🔭 I am currently working as a freelancer  doing data science work
+- 🌱 I’m very open to full time remote data scientist roles
 - ⚡ Fun fact: I have a masters in electrical engineering
 
 ### Stuff I've worked on!
