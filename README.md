@@ -6,7 +6,7 @@ easier and better. I really enjoy working with others on exciting projects.
 So, while you're navigating this page, if something appeals to you,
 don't hesitate to get in touch with me
 
-- 🔭 I am currently working as a freelancer, working with companies on data projects
+- 🔭 I am currently working as a freelancer, working with companies on machine learning projects
 - 🌱 I’m very open to full time remote data scientist and machine learning engineer roles
 - ⚡ Fun fact: I have a masters in electrical engineering
 
