@@ -2,7 +2,7 @@
 
 # Little details about me 
 
-👨🏾‍💻 Machine Learning Engineer, particularly in the field of NLP and in all things regarding Tabular data
+👨🏾‍💻 AI/Machine Learning Engineer, particularly in the field of NLP and in all things regarding Tabular data
 
 📚 Interested in all things Artificial Intelligence and Machine learning and how we can use it to make the world a better place
 
