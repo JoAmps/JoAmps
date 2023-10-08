@@ -6,7 +6,7 @@
 
 📚 Interested in all things Artificial Intelligence and Machine learning and how we can use it to make the world a better place
 
-🕐 Have been freelancing with companies and clients from around the world
+🕐 Have been freelancing with companies and clients from around the world, and now working with a fully distributed global team
 
 🔝 Always upskilling as this field is ever-changing and love taking on new projects to enable develop more skillset
 
@@ -14,8 +14,5 @@
 📭 You can reach out to me on <a href="https://www.linkedin.com/in/hyacinth-ampadu/"><img align="!" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Hyacinth Ampadu | LinkedIn" width="21px"/></a> and also in my email here  ampaduh@gmail.com
 
 
-# My statistics 🏅
-
-![Hyacinth’s GitHub stats](https://github-readme-stats.vercel.app/api?username=JoAmps&theme=omni&show_icons=true)
 
 
