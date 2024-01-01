@@ -2,11 +2,11 @@
 
 # Little details about me 
 
-👨🏾‍💻 AI/Machine Learning Engineer, particularly in the field of NLP and now generative AI and also in all things regarding Tabular data
+👨🏾‍💻 AI/Machine Learning Engineer
+
+📈 Been working in various aspects of AI and ML, particularly in the field of NLP and all things tabular data, and now generative AI (LLMs)
 
 📚 Interested in all things Artificial Intelligence and Machine learning and how we can use it to make the world a better place
-
-🕐 Have been freelancing with companies and clients from around the world, and now working with a fully distributed global team
 
 🔝 Always upskilling as this field is ever-changing and love taking on new projects to enable develop more skillset
 
